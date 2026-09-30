@@ -9,4 +9,4 @@ function getbrowserVersion(){ //Create a function by name getbrowserVersion
     console.log("Inside Function & outside Block", browserVersion); //print that variable inside function(outside block)
 }
 
-getbrowserVersion() //Call the function from the javascript.
+getbrowserVersion() //Call the function 
